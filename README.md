@@ -41,7 +41,7 @@ VS Code • IntelliJ IDEA • Android Studio
 
 - **MEDECIEL** — Medical dossier management platform
 - **VibeWave** — Flutter music player
-- **E-Commerce Application** — Mobile application and web platform
+- **MyVet** — Mobile E-Commerce Application 
 - **Product Detection** — YOLO-based object detection
 - **Smart Shopping System** — IoT system using object detection
 - **Microservices Projects** — Spring Boot & Spring Cloud
