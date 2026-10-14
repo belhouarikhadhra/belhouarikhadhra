@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Khadra
+# Hi there  I'm Khadra
 
 🎓 5th-Year Computer Science Student (3CS) at ESI-SBA  
 💻 Specialization: Computer Systems Engineering (ISI)
@@ -42,6 +42,4 @@ VS Code • IntelliJ IDEA • Android Studio
 - **MEDECIEL** — Medical dossier management platform
 - **VibeWave** — Flutter music player
 - **MyVet** — Mobile E-Commerce Application 
-- **Product Detection** — YOLO-based object detection
-- **Smart Shopping System** — IoT system using object detection
 - **Microservices Projects** — Spring Boot & Spring Cloud
