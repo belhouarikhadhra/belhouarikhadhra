@@ -1,11 +1,11 @@
 # Hi there  I'm Khadra
 
-🎓 5th-Year Computer Science Student (3CS) at ESI-SBA  
-💻 Specialization: Computer Systems Engineering (ISI)
+5th-Year Computer Science Student (3CS) at ESI-SBA  
+Specialization: Computer Systems Engineering (ISI)
 
 ## About Me
 
-- Interested in **Web, Mobile, Backend, AI and IoT development**
+- Interested in **Web, Mobile, Backend, Database**
 - Working on **academic and personal software projects**
 - Always learning new technologies and improving my programming skills
 
@@ -18,14 +18,13 @@ Python • Java • JavaScript • Dart • C
 Machine Learning • YOLO  • PCA
 
 ### Web Development
-Django • Django REST Framework • React • Vite
+Django • Django REST Framework 
 
 ###  Mobile Development
 Flutter • Dart • Android
 
 ###  Backend
-Spring Boot • Spring Cloud • Microservices  
-Eureka • OpenFeign • Resilience4j
+Django • Django REST 
 
 ### IoT
 Arduino • ESP8266 • MQTT • Node-RED • Blynk
